@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$dbname = "mini_riset_sql";
+$dbname = "mini_riset_sql_injection";
 $username = "root";
 $password = "";
 
